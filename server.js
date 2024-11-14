@@ -45,7 +45,7 @@ const options = {
     },
     servers:[
         {
-            url:"https://job-portal-website-idhn.onrender.com/",
+            url:"https://job-portal-website-idhn.onrender.com",
         }
     ],
 },
